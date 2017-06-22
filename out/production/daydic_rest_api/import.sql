@@ -1,0 +1,1 @@
+INSERT INTO `DAYDIC`.`Users` (`createdDate`,`displayName`) VALUES (now(),"정보석");
